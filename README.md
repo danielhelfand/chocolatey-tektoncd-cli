@@ -8,7 +8,7 @@ Since this package has not been contributed to Chocolatey at this time, you must
 
 1. Clone this repository.
 
-2. At the root of this repository, run `choco pack`.
+2. In the `tektoncd-cli` folder of this repository, run `choco pack`.
 
 3. Run `choco install tektoncd-cli -s .`
 
