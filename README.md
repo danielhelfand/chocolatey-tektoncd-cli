@@ -1,11 +1,11 @@
 # tkn Chocolatey Package
 
-Chocolatey package for the [tektoncd-cli](https://github.com/tektoncd/cli) (`tkn`). To use this package, you must have [Chocolatey installed](https://chocolatey.org/docs/installation).
+[Chocolatey package](https://chocolatey.org/packages/tektoncd-cli/) for the [tektoncd-cli](https://github.com/tektoncd/cli) (`tkn`).
 
 This package can be installed by running the following:
 
 ```
-choco install tektoncd-cli --version=0.6.0
+choco install tektoncd-cli --confirm
 ```
 
 ## Development and Testing
