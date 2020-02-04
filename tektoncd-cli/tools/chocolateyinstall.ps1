@@ -8,7 +8,7 @@ $packageArgs = @{
   unzipLocation  = $toolsDir
   url64bit       = $url64
   softwareName   = 'tektoncd-cli*' 
-  checksum64     = 'SHA256: 592C79C96FCE12B8E8DC4F853C1D8D6FAC76E18AC7A3B2118D44A238A5274875
+  checksum64     = '592C79C96FCE12B8E8DC4F853C1D8D6FAC76E18AC7A3B2118D44A238A5274875
 '
   checksumType64 = 'sha256'
 }
