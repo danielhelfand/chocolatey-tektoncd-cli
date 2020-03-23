@@ -1,5 +1,7 @@
 # tkn Chocolatey Package
 
+[![badge](https://img.shields.io/chocolatey/v/tektoncd-cli)](https://chocolatey.org/packages/tektoncd-cli/)
+
 [Chocolatey package](https://chocolatey.org/packages/tektoncd-cli/) 🍫 for the [tektoncd-cli](https://github.com/tektoncd/cli) (`tkn`).
 
 This package can be installed by running the following:
